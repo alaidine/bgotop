@@ -1,0 +1,4 @@
+github.com/rthornton128/goncurses v0.0.0-20240804152857-da6485a3b6d7 h1:HRzMcsVbf0rNRrRX/h43syyiRAJFbJFpZFQEUhBJPAo=
+github.com/rthornton128/goncurses v0.0.0-20240804152857-da6485a3b6d7/go.mod h1:AHlKFomPTwmO7H2vL8d7VNrQNQmhMi/DBhDnHRhjbCo=
+golang.org/x/sys v0.0.0-20210317225723-c4fcb01b228e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+seehuhn.de/go/ncurses v0.2.0/go.mod h1:oAc9Y+UN0tflNV0iME++z0ij9uNmIjdxQFkpGoRMd2E=
